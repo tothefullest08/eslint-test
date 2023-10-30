@@ -1,15 +1,10 @@
 {
-  "name": "eslint-config-martin",
-  "version": "1.9.0",
-  "description": "개인 eslint 입니다",
+  "name": "tothefullest-eslint-test",
+  "version": "0.0.1",
+  "description": "tothefullest-eslint-test",
   "main": "index.js",
   "scripts": {},
-  "author": "martin kim",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/martin-dsp/eslint-config-martin.git"
-  },
+  "author": "Harry Lee",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.9.0",
     "@typescript-eslint/parser": "^6.9.0",
